@@ -5,12 +5,8 @@
   padding: 10px;
 }
 
-.test, .task-2, .block-7 {
+.test {
   width: 100px;
   height: 100px;
   background: orange;
-}
-
-.active {
-  border: 3px solid red;
 }
